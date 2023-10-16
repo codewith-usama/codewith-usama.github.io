@@ -83723,7 +83723,7 @@ A.ao2.prototype={
 $1(a){return B.IR},
 $S:525}
 A.rM.prototype={
-J(a){return new A.yf(new A.M4(B.JK,null),A.aLp(),"Hello",A.aCT(a),!1,null)}}
+J(a){return new A.yf(new A.M4(B.JK,null),A.aLp(),"USAMA",A.aCT(a),!1,null)}}
 A.qO.prototype={
 J(a){var s=null,r=t.w,q=A.be(a,s,r).w.a.a,p=$.vu(),o=q*0.12,n=q*0.07,m=t.p
 m=A.b([A.r9(A.eJ(A.b([A.b9("Mobile",s,s,s,s,A.ao7().$1$textStyle(A.d_(s,s,s,s,s,s,s,s,s,s,s,o,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s)),s,s),B.hn,A.b9("+92-312-3898090",s,s,s,s,A.d_(s,s,B.l,s,s,s,s,s,s,s,s,n,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s),s,s)],m),B.bW,B.au,B.av),1),A.r9(A.eJ(A.b([A.b9("Email",s,s,s,s,A.ao7().$1$textStyle(A.d_(s,s,s,s,s,s,s,s,s,s,s,o,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s)),s,s),A.b9("codewusama@gmail.com",s,s,s,s,A.d_(s,s,B.l,s,s,s,s,s,s,s,s,n,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s),s,s)],m),B.bW,B.au,B.av),1),B.DP,B.DR,B.DQ],m)
